@@ -1,0 +1,10 @@
+Django==6.0.2
+djangorestframework
+django-cors-headers
+numpy
+pandas
+requests
+scikit-learn
+statsmodels
+mysqlclient>=2.2.1
+xgboost
